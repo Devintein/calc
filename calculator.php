@@ -1,5 +1,5 @@
 <?php
-
+    var_dump('aa');
     if (isset($_GET['operator'])) {
         $aa = '55';
         $num1 = $_GET['num1'];
